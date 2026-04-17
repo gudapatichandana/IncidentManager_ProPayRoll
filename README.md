@@ -124,10 +124,3 @@ sequenceDiagram
 
 ---
 
-## 🎓 Interview Talking Points
-- **System Stability**: Discuss how this portal reduces **MTTR (Mean Time To Resolution)** by mapping technical error codes to business context.
-- **Consulting Mindset**: Explain how the **Audit Trail** and **RCA Module** align with the compliance-heavy requirements of Deloitte's clients.
-
----
-
-Designed for Professional Excellence in Support Operations.
